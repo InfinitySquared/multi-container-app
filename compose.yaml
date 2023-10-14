@@ -24,7 +24,7 @@ services:
     #volumes: 
     #  - database:/data/db
     ports:
-      - 27017:27017
+      - 27020:27020
 
 #volumes:
   #database:
